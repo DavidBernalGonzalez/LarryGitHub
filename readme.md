@@ -90,7 +90,7 @@ no se realizaría un commit donde podríamos escribir una descripción. En
 cambio, con fast foward, solamente desplazaríamos el puntero.
 - ¿Qué comando o comandos utilizaste en el paso 27?
 git reset --soft HEAD~1 
---soft: con esta opción estamos indicando que retrocedemos a el commit 
+--soft : con esta opción estamos indicando que retrocedemos a el commit 
 HEAD~1 y no perdemos los cambios de los commits posteriores. Todos los 
 cambios aparecerán como pendientes para realizar un commit.
 - ¿Qué comando o comandos utilizaste en el paso 28?
